@@ -24,9 +24,11 @@ To get started with the project, follow these steps:
 ```bash
 git clone https://github.com/your-username/language-detection.git
 ```
+2. Install Requirements 
 ```bash
 pip install -r requirements.txt
 ```
+3. Open Jupyter Notebook 
 ```bash
 jupyter notebook
 ```
