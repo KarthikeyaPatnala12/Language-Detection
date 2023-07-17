@@ -23,3 +23,12 @@ To get started with the project, follow these steps:
 
 ```bash
 git clone https://github.com/your-username/language-detection.git
+
+```bash
+pip install -r requirements.txt
+
+```bash
+jupyter notebook
+
+
+Remember to replace `your-username` in the clone URL with your GitHub username. Also, provide the correct URL to the dataset in the Dataset section. Feel free to modify the README to suit your project's specific details and requirements.
